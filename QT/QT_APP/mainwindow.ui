@@ -14,43 +14,14 @@
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QTableView" name="tableView">
     <property name="geometry">
      <rect>
-      <x>560</x>
+      <x>30</x>
       <y>10</y>
-      <width>211</width>
-      <height>51</height>
+      <width>401</width>
+      <height>531</height>
      </rect>
-    </property>
-    <property name="text">
-     <string>УДАЛИТЬ</string>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="pushButton_2">
-    <property name="geometry">
-     <rect>
-      <x>560</x>
-      <y>80</y>
-      <width>211</width>
-      <height>51</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>ИЗМЕНИТЬ</string>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="pushButton_3">
-    <property name="geometry">
-     <rect>
-      <x>560</x>
-      <y>150</y>
-      <width>211</width>
-      <height>51</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>СОЗДАТЬ</string>
     </property>
    </widget>
   </widget>
